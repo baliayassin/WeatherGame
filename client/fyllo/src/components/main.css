@@ -1,0 +1,18 @@
+.main{
+
+   width:500px;
+   height: 500px;
+   border-radius: 5px;
+   border-width: 3px;
+   border-color: black;
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+}
+
+.btn{
+
+    display: block;
+    margin-top:20px;
+
+}
